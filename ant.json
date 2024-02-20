@@ -1,0 +1,1127 @@
+{
+  "Atomic": {
+    "title": "ANTARKTIQUE SERVEUR",
+    "titlecolor": {
+      "r": 0.10130906105041504,
+      "g": 0.93444466590881348,
+      "b": 1,
+      "a": 1
+    },
+    "tabs": [
+      {
+        "id": "8DD9A707470883557EC95B8F641552AB",
+        "buttoninfo": {
+          "id": "8DD9A707470883557EC95B8F641552AB",
+          "title": "BIENVENUE",
+          "position": "NewEnumerator0",
+          "normal": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0,
+              "g": 0.30498772859573364,
+              "b": 0.99110293388366699,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0,
+              "g": 0.30498772859573364,
+              "b": 0.99110293388366699,
+              "a": 1
+            },
+            "borderthickness": 0.13705858588218689,
+            "cornerradius": 1
+          },
+          "hovered": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0,
+              "g": 0.30498772859573364,
+              "b": 0.99110293388366699,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0,
+              "g": 0.30498772859573364,
+              "b": 0.99110293388366699,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "pressed": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0.027450999245047569,
+              "b": 0.074510000646114349,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.21568599343299866,
+              "g": 0.80000001192092896,
+              "b": 1,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0,
+              "g": 0.44705900549888611,
+              "b": 0.50980401039123535,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "selected": {
+            "backgroundcolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0.5
+          }
+        },
+        "panelspacing": 10,
+        "layout": "NewEnumerator0",
+        "panel1": {
+          "title": "<TS.Roboto.15.Blue>Bienvenue le serveur Antarktique. C'est un serveur PvE crossplay sur la version ascended de ark. C'est un serveur crée pour jouer entre adulte de manière détente sans prise de tête avec bon délire tout en profitant du jeu peu importe les temps de jeu de chacun. Les réglages sont pensé de manière a ce que le jeu ne sois ni trop facile ni trop dur et que les dinosaures soit assez rapide à apprivoiser et a reproduire. Le serveur est hébergés sur des machines dédiée puissante afin de vous garantir une bonne expérience de jeu.</>\r\n",
+          "titlejustification": "Left",
+          "text": "<TS.Roboto.15.Blue>Le Discord est</> <TS.Roboto.15.Red>OBLIGATOIRE</> <TS.Roboto.15.Blue> pour tout le monde. Vous pouvez y avoir accès avec cette adresse </><TS.Roboto.15.Red>https://discord.gg/dWMjxr8que</><TS.Roboto.15.Blue> ou en cliquant sur le bouton</> <TS.Roboto.15.Orange>ANTARKTIQUE DISCORD</>\r\n\r\n<TS.Roboto.15.Blue>Lisez bien le</> <TS.Roboto.15.Red>REGLEMENT</> <TS.Roboto.15.Blue>sur le Discord et cliquez sur \"Accepter le règlement\" afin d'avoir accès a toutes les fonctionnalitées du discord. Vous pouvez y accéder en cliquant sur le bouton </><TS.Roboto.15.Orange>REGLEMENT DISCORD</>\r\n\r\n<TS.Roboto.15.Blue>Vous pouvez </><TS.Roboto.15.Green>voter</> <TS.Roboto.15.Blue>toutes les 2 heures afin d'améliorer la visibilité du serveur et attirer plus de monde. Plus d'infos sur le discord dans le channel</> <TS.Roboto.15.Green>\"Vote serveur\"</><TS.Roboto.15.Blue>. Vous pouvez voter en cliquant sur le bouton </><TS.Roboto.15.Orange>VOTE</>\r\n\r\n<TS.Roboto.15.Blue>Si vous pouvez éffectuer un</> <TS.Roboto.15.Green>don</> <TS.Roboto.15.Blue>afin d'aider a la location du serveur et de nous permettre de louer d'autres serveurs avec d'autres maps. Vous pouvez y accéder en cliquant sur le bouton </><TS.Roboto.15.Orange>DON</>\r\n\r\n<TS.Roboto.15.Blue>Si vous avez des </><TS.Roboto.15.Green>idées</> <TS.Roboto.15.Blue>concernant l'ajout/suppression d'un mod ou réglage n'hésitez pas à partager cela dans le channel </> <TS.Roboto.15.Green>\"Boîte à idées\"</><TS.Roboto.15.Blue> sur le discord.</>\r\n\r\n<TS.Roboto.15.Blue>Pensez à participer aux </><TS.Roboto.15.Green>giveaways</><TS.Roboto.15.Blue> chaque mercredi en cliquant sur</> <TS.Roboto.15.Green>\"participer\"</><TS.Roboto.15.Blue> dans le channel giveaway sur le discord.</>\r\n\r\n<TS.Roboto.15.Yellow>SI VOUS RENCONTREZ UN PROBLEME AVEC LE JEU OU UN AUTRE JOUEUR, VEUILLEZ VOUS FAIRE UN TICKET EN CLIQUANT SUR OUVRIR UN \"TICKET\" SUR LE DISCORD DANS LE CHANNEL \"DEMANDE DE TICKET\". PENSEZ A BIEN DETAILLER VOTRE PROBLEME. VOUS POUVEZ AJOUTER DES CAPTURES D'ECRAN/VIDEOS. </>",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel2": {
+          "title": "PANEL 2",
+          "titlejustification": "Left",
+          "text": "PANEL 2 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel3": {
+          "title": "PANEL 3",
+          "titlejustification": "Left",
+          "text": "PANEL 3 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel4": {
+          "title": "PANEL 4",
+          "titlejustification": "Left",
+          "text": "PANEL 4 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel5": {
+          "title": "PANEL 5",
+          "titlejustification": "Left",
+          "text": "PANEL 5 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        }
+      },
+      {
+        "id": "A6C7C3FC459DD6DE94024B92579D9109",
+        "buttoninfo": {
+          "id": "A6C7C3FC459DD6DE94024B92579D9109",
+          "title": "REGLAGES/MODS DU SERVEUR",
+          "position": "NewEnumerator1",
+          "normal": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.12564979493618011,
+            "cornerradius": 1
+          },
+          "hovered": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.13705858588218689,
+            "cornerradius": 0
+          },
+          "pressed": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "selected": {
+            "backgroundcolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0.5
+          }
+        },
+        "panelspacing": 10,
+        "layout": "NewEnumerator2",
+        "panel1": {
+          "title": "<TS.Roboto.15.Yellow>REGLAGES</>",
+          "titlejustification": "Center",
+          "text": "\r\n<TS.Roboto.15.Yellow>- Stats des imprints x3</>\r\n<TS.Roboto.15.Yellow>- Incubation des oeufs x50</>\r\n<TS.Roboto.15.Yellow>- Durée de décomposition des cadavres x3</>\r\n<TS.Roboto.15.Yellow>- Intervalle de câlin: quelques minutes</>\r\n<TS.Roboto.15.Yellow>- Maturation des bébés: quelques minutes</>\r\n<TS.Roboto.15.Yellow>- Durée accouplement: rapide</>\r\n<TS.Roboto.15.Yellow>- Temps entre 2 accouplements: rapide</>\r\n<TS.Roboto.15.Yellow>- Qualité des drops et pêche: x4</>\r\n<TS.Roboto.15.Yellow>- Possibilités d'augmenter la stat de vitesse de déplacement pour les joueurs et les dinos.</>\r\n<TS.Roboto.15.Yellow>- Poids illimités pour les joueurs et les dinos (mettre 1 point).</>\r\n<TS.Roboto.15.Yellow>- Difficulté: dino lvl 300 max sauvage</>\r\n<TS.Roboto.15.Yellow>- Récolte x5</>\r\n<TS.Roboto.15.Yellow>- Apprivoisement: x20</>\r\n<TS.Roboto.15.Yellow>- Réduction de consommation de la soif et la nourriture</>\r\n<TS.Roboto.15.Yellow>- Suppression des dégats des dinos sauvage sur les structures</>\r\n<TS.Roboto.15.Yellow>- Tous les engrams  sauf tek</>\r\n<TS.Roboto.15.Yellow>- Dégâts des tourelles x100</>",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0.30000001192092896,
+            "g": 0.10950000584125519,
+            "b": 0.10950000584125519,
+            "a": 0
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel2": {
+          "title": "<TS.Roboto.15.Orange>MODS</>",
+          "titlejustification": "Center",
+          "text": "\r\n<TS.Roboto.15.Orange>01- RRHomedeco</>     \r\n<TS.Roboto.15.Orange>02- Arkitect Structures Remastered</>     \r\n<TS.Roboto.15.Orange>03- Gryphons: ajout du griffon</>     \r\n<TS.Roboto.15.Orange>04- Addition ascended Ceratosaurus: ajout du dinosaure ceratosaurus</>     \r\n<TS.Roboto.15.Orange>05- Addition ascended Brachiosaurus: ajout du dinosaure brachiosaurus</>     \r\n<TS.Roboto.15.Orange>06- Addition ascended Deinosuchus: ajout du dinosaure deinosuchus</>     \r\n<TS.Roboto.15.Orange>07- Addition ascended Xiphactinus: ajout du dinosaure xiphactinus</>     \r\n<TS.Roboto.15.Orange>08- Addition ascended Archelon: ajout du dinosaure archelon</>    \r\n<TS.Roboto.15.Orange>09- Addition ascended Helicoprion: ajout du dinosaure helicoprion</>     \r\n<TS.Roboto.15.Orange>10- Addition ascended Deinotherium: ajout du dinosaure deinotherium</>\r\n<TS.Roboto.15.Orange>11- Mantis addition: ajout du dinosaure mantis</>\r\n<TS.Roboto.15.Orange>12- Super spyglass plus: Nouvelle longue vue qui donne + d'infos sur les dinos</>\r\n<TS.Roboto.15.Orange>13- Klinger additional boats: Ajout des bateaux</>\r\n<TS.Roboto.15.Orange>14- Custom dino levels</>\r\n<TS.Roboto.15.Orange>15- More Giga and Carchar spawns</>\r\n<TS.Roboto.15.Orange>16- Net projectiles</>\r\n<TS.Roboto.15.Orange>17- Egg Collector</>\r\n<TS.Roboto.15.Orange>18- Ez Engram Unlocker: déverrouille tous les engrammes de chaque niveau sauf le tek</>\r\n<TS.Roboto.15.Orange>19- adminpanel</>\r\n<TS.Roboto.15.Orange>20- TG Stacking mod 10000-90: stacks x10 000/poids -90% pour tous les objets présent dans l'inventaire</>     \r\n<TS.Roboto.15.Orange>21- styracosaurus</>\r\n<TS.Roboto.15.Orange>22- Atomic server manager</>\r\n<TS.Roboto.15.Orange>23- Ark coins</>\r\n<TS.Roboto.15.Orange>24- Pelayori's cryo storage</>\r\n<TS.Roboto.15.Orange>25- Pull it</>\r\n<TS.Roboto.15.Orange>26- solo farm mod</>\r\n<TS.Roboto.15.Orange>27- Chibi's maker</>\r\n<TS.Roboto.15.Orange>28- Alfa Oceanic Platforms</>\r\n\r\n",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0.59500002861022949,
+            "g": 0.068894736468791962,
+            "b": 0.068894736468791962,
+            "a": 0
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel3": {
+          "title": "PANEL 3",
+          "titlejustification": "Left",
+          "text": "PANEL 3 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel4": {
+          "title": "PANEL 4",
+          "titlejustification": "Left",
+          "text": "PANEL 4 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel5": {
+          "title": "PANEL 5",
+          "titlejustification": "Left",
+          "text": "PANEL 5 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        }
+      },
+      {
+        "id": "4ABA64C1491EAF4C243BFFA7400472E7",
+        "buttoninfo": {
+          "id": "4ABA64C1491EAF4C243BFFA7400472E7",
+          "title": "REGLEMENT",
+          "position": "NewEnumerator1",
+          "normal": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 1
+          },
+          "hovered": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "pressed": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0.99110293388366699,
+              "g": 0.74540489912033081,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "selected": {
+            "backgroundcolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0.5
+          }
+        },
+        "panelspacing": 10,
+        "layout": "NewEnumerator0",
+        "panel1": {
+          "title": "",
+          "titlejustification": "Center",
+          "text": "<TS.Roboto.15.Purple>-Age minimum/NSFW/NFSL: 18 ans minimum pour faire partie de la communauté. On peut faire quelques exeption mais entretien vocal obligatoire. NSFW, NSFL et le contenu malsain n'est pas autorisé sur le serveur. Ce sera sanctionnée par un bannissement.</>\r\n<TS.Roboto.15.Red>-Cheat & hack: Utiliser des logiciels tiers, que ce soit pour avoir un gros avantage et ruiner l'expérience des autres joueurs ou pour détruire le serveur. Ce sera sanctionnée par un bannissement définitif.</>\r\n<TS.Roboto.15.Yellow>-Pseudos en jeu: Interdiction d'utiliser le nom de personnage \"Humain\". Si vous avez un nom de personnage \"Humain\", veuillez contacter un admin pour changer le pseudo. Vous devez avoir le même nom de personnage en jeu et sur le discord.</>\r\n<TS.Roboto.15.Green>-Comportements: Pas de comportement toxique que ce soit en jeu ou sur le discord. Pas d'insultes. On essaye pas de détruire les bases et ruiner l'expérience des autres joueurs en utilisant des failles et des mécaniques cachées du jeu. On évite de voler les oeufs et d'accoupler ses dinos avec ceux des autres tribus sans demander l'autorisation. On évite d'espionner les autres tribus, rester statique au dessus d'une base est mal vu et suspect. Interdiction de voler/ruiner une tribu, on ne rejoint pas une tribu pour tout jeter ou tout voler vers une autre tribu. Ce sera sanctionnée par un bannissement si les avertissements sont répétés et non écoutés.</>\r\n<TS.Roboto.15.Orange>-Apprivoisement/limite de dinos: Il est interdit de tuer les dinos que les joueurs sont en train d'apprivoiser. Obligation de récupérer ou détruire le piège après l'apprivoisement. Vous êtes autorisé a laissé maximum 100 dinos sorties par clan (connecté et déconnecté). Interdiction de faire un double clan. Ce sera sanctionnée par un bannissement définitif en cas d'abus. </>\r\n<TS.Roboto.15.White>-Tribus: Nom de tribu obligatoire, même pour les joueurs solo. Chaque tribu doit créer un post dans le channel \"tribu\" du discord et indiquer le nom de la tribu en titre du post et la liste des membres ainsi que les coordonnées de la base en description du post. Et aussi indiquer dans la suite du post les déménagements en cours avec les coordonnées de la prochaine base en construction. Toutes les construction non indiquées dans ce channel seront détruites.</>\r\n<TS.Roboto.15.Purple>-Spam structures: Il est interdit de spam piliers, fondations ou autres autour de votre base & sur la map. Ces structures seront détruites et la tribu sera sanctionnée d'un avertissement. Puis un bannissement définitif si les avertissements sont non écoutés.</>\r\n<TS.Roboto.15.Blue>- Constructions: 1 base autorisée par map sur l'ensemble du cluster, pas d'avant poste ou de seconde base sur la même map. 1 base principal sur l'ensemble des maps du cluster, et 1 avant poste sur les autres maps qui doit être de la taille 10x10 maximum. Les enclos/murailles/enceintes doivent êtres construit le plus petit possible. Pas de giga enclos/murailles/enceintes abusif qui prend 1/4 de la map. Pour les enclos/enceintes/murailles, c'est 30 dino-portes moyennes maxi et 2 porte béhémoth maxi. Et les murs des enclos/murailles/enceintes c'est 4 de hauteur de mur maximum par rapport au sol/eau et 3 fondations(ou plafond) de largeur. Petite infos, les tourelles sont boostées sur ce serveur(x100). Ils font énormément de dégâts donc vous pouvez protéger vos dinos sans faire de murailles/enclos. Ne pas construire sur l'ensemble de l'île carnivore (les petites îles autour de l'île carnivore aussi). Pas de construction dans les zones de ressources importantes.</>",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel2": {
+          "title": "PANEL 2",
+          "titlejustification": "Left",
+          "text": "PANEL 2 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel3": {
+          "title": "PANEL 3",
+          "titlejustification": "Left",
+          "text": "PANEL 3 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel4": {
+          "title": "PANEL 4",
+          "titlejustification": "Left",
+          "text": "PANEL 4 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        },
+        "panel5": {
+          "title": "PANEL 5",
+          "titlejustification": "Left",
+          "text": "PANEL 5 - TEXT",
+          "textjustification": "Left",
+          "backgroundcolor": {
+            "r": 0,
+            "g": 0.0078429998829960823,
+            "b": 0.019608000293374062,
+            "a": 0.7019609808921814
+          },
+          "usecustombackgroundimage": false,
+          "custombackgroundimageurl": ""
+        }
+      }
+    ],
+    "links": [
+      {
+        "id": "66B050F04BFF7304609CEF8C38A2B973",
+        "url": "//discord.gg/dWMjxr8que",
+        "buttoninfo": {
+          "id": "66B050F04BFF7304609CEF8C38A2B973",
+          "title": "ANTARKTIQUE DISCORD",
+          "position": "NewEnumerator0",
+          "normal": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.11424101144075394,
+            "cornerradius": 1
+          },
+          "hovered": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0.017266305163502693
+          },
+          "pressed": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0.027450999245047569,
+              "b": 0.074510000646114349,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.21568599343299866,
+              "g": 0.80000001192092896,
+              "b": 1,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0,
+              "g": 0.44705900549888611,
+              "b": 0.50980401039123535,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "selected": {
+            "backgroundcolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0.5
+          }
+        }
+      },
+      {
+        "id": "188832454D809D39194D4C8E8E5D2B8D",
+        "url": "https://discord.com/channels/1180150061737459782/1183818604643364971",
+        "buttoninfo": {
+          "id": "188832454D809D39194D4C8E8E5D2B8D",
+          "title": "REGLEMENT DISCORD",
+          "position": "NewEnumerator0",
+          "normal": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.14276298880577087,
+            "cornerradius": 1
+          },
+          "hovered": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "pressed": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0.027450999245047569,
+              "b": 0.074510000646114349,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.21568599343299866,
+              "g": 0.80000001192092896,
+              "b": 1,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0,
+              "g": 0.44705900549888611,
+              "b": 0.50980401039123535,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "selected": {
+            "backgroundcolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0.5
+          }
+        }
+      },
+      {
+        "id": "2D701B0E45694743661C78846F7EBC46",
+        "url": "https://top-serveurs.net/ark/vote/antarktique-fr",
+        "buttoninfo": {
+          "id": "2D701B0E45694743661C78846F7EBC46",
+          "title": "VOTE",
+          "position": "NewEnumerator0",
+          "normal": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.13705858588218689,
+            "cornerradius": 1
+          },
+          "hovered": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "pressed": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0.027450999245047569,
+              "b": 0.074510000646114349,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.21568599343299866,
+              "g": 0.80000001192092896,
+              "b": 1,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0,
+              "g": 0.44705900549888611,
+              "b": 0.50980401039123535,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "selected": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.14846737682819366,
+            "cornerradius": 1
+          }
+        }
+      },
+      {
+        "id": "80241A9E40C8BB52CC536699AB7D98B3",
+        "url": "https://discord.com/channels/1180150061737459782/1180272286817857647",
+        "buttoninfo": {
+          "id": "80241A9E40C8BB52CC536699AB7D98B3",
+          "title": "DON",
+          "position": "NewEnumerator0",
+          "normal": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.14846737682819366,
+            "cornerradius": 1
+          },
+          "hovered": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.99110293388366699,
+              "g": 0.26225101947784424,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "pressed": {
+            "backgroundcolor": {
+              "r": 0,
+              "g": 0.027450999245047569,
+              "b": 0.074510000646114349,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0.21568599343299866,
+              "g": 0.80000001192092896,
+              "b": 1,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 0,
+              "g": 0.44705900549888611,
+              "b": 0.50980401039123535,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0
+          },
+          "selected": {
+            "backgroundcolor": {
+              "r": 1,
+              "g": 1,
+              "b": 1,
+              "a": 1
+            },
+            "foregroundcolor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "bordercolor": {
+              "r": 1,
+              "g": 0,
+              "b": 0,
+              "a": 1
+            },
+            "borderthickness": 0.10000000000000001,
+            "cornerradius": 0.5
+          }
+        }
+      }
+    ],
+    "linkbuttondefaultsettings": {
+      "id": "",
+      "title": "Preview",
+      "position": "NewEnumerator0",
+      "normal": {
+        "backgroundcolor": {
+          "r": 0.00060700002359226346,
+          "g": 0.028426000848412514,
+          "b": 0.07618500292301178,
+          "a": 1
+        },
+        "foregroundcolor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "bordercolor": {
+          "r": 0,
+          "g": 0.44705900549888611,
+          "b": 0.50980401039123535,
+          "a": 1
+        },
+        "borderthickness": 0.10000000000000001,
+        "cornerradius": 0
+      },
+      "hovered": {
+        "backgroundcolor": {
+          "r": 0,
+          "g": 0.015685999765992165,
+          "b": 0.043136999011039734,
+          "a": 1
+        },
+        "foregroundcolor": {
+          "r": 0,
+          "g": 0.26274499297142029,
+          "b": 0.40784299373626709,
+          "a": 1
+        },
+        "bordercolor": {
+          "r": 0,
+          "g": 0.23529399931430817,
+          "b": 0.27058801054954529,
+          "a": 1
+        },
+        "borderthickness": 0.10000000000000001,
+        "cornerradius": 0
+      },
+      "pressed": {
+        "backgroundcolor": {
+          "r": 0,
+          "g": 0.027450999245047569,
+          "b": 0.074510000646114349,
+          "a": 1
+        },
+        "foregroundcolor": {
+          "r": 0.21568599343299866,
+          "g": 0.80000001192092896,
+          "b": 1,
+          "a": 1
+        },
+        "bordercolor": {
+          "r": 0,
+          "g": 0.44705900549888611,
+          "b": 0.50980401039123535,
+          "a": 1
+        },
+        "borderthickness": 0.10000000000000001,
+        "cornerradius": 0
+      },
+      "selected": {
+        "backgroundcolor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "foregroundcolor": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bordercolor": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "borderthickness": 0.10000000000000001,
+        "cornerradius": 0.5
+      }
+    },
+    "tabbuttondefaultsettings": {
+      "id": "",
+      "title": "Preview",
+      "position": "NewEnumerator0",
+      "normal": {
+        "backgroundcolor": {
+          "r": 0.00060700002359226346,
+          "g": 0.028426000848412514,
+          "b": 0.07618500292301178,
+          "a": 1
+        },
+        "foregroundcolor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "bordercolor": {
+          "r": 0,
+          "g": 0.44705900549888611,
+          "b": 0.50980401039123535,
+          "a": 1
+        },
+        "borderthickness": 0.10000000000000001,
+        "cornerradius": 0
+      },
+      "hovered": {
+        "backgroundcolor": {
+          "r": 0,
+          "g": 0.015685999765992165,
+          "b": 0.043136999011039734,
+          "a": 1
+        },
+        "foregroundcolor": {
+          "r": 0,
+          "g": 0.26274499297142029,
+          "b": 0.40784299373626709,
+          "a": 1
+        },
+        "bordercolor": {
+          "r": 0,
+          "g": 0.23529399931430817,
+          "b": 0.27058801054954529,
+          "a": 1
+        },
+        "borderthickness": 0.10000000000000001,
+        "cornerradius": 0
+      },
+      "pressed": {
+        "backgroundcolor": {
+          "r": 0,
+          "g": 0.027450999245047569,
+          "b": 0.074510000646114349,
+          "a": 1
+        },
+        "foregroundcolor": {
+          "r": 0.21568599343299866,
+          "g": 0.80000001192092896,
+          "b": 1,
+          "a": 1
+        },
+        "bordercolor": {
+          "r": 0,
+          "g": 0.44705900549888611,
+          "b": 0.50980401039123535,
+          "a": 1
+        },
+        "borderthickness": 0.10000000000000001,
+        "cornerradius": 0
+      },
+      "selected": {
+        "backgroundcolor": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        },
+        "foregroundcolor": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bordercolor": {
+          "r": 1,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "borderthickness": 0.10000000000000001,
+        "cornerradius": 0.5
+      }
+    },
+    "paneldefaultbackgroundcolor": {
+      "r": 0,
+      "g": 0.0078429998829960823,
+      "b": 0.019608000293374062,
+      "a": 0.7019609808921814
+    },
+    "iconsettings": {
+      "showicon": true,
+      "hideafterduration": 0,
+      "usecustomicon": true,
+      "customiconurl": "https://i.gyazo.com/a48f763962eb76ad7450402ee6c91e3b.png",
+      "usecustomtext": true,
+      "customtext": "",
+      "customtextcolor": {
+        "r": 0.99500000476837158,
+        "g": 0.56096154451370239,
+        "b": 0.20807841420173645,
+        "a": 1
+      },
+      "openbuttonkey": "F2",
+      "position": "NewEnumerator3",
+      "iconmarginx": 8.4403209686279297,
+      "iconmarginy": 11.594857215881348,
+      "iconopacity": 1,
+      "customtextopacity": 0.74614137411117554,
+      "customtexthorizontalalignment": "HAlign_Left",
+      "customtextverticalalignment": "VAlign_Top",
+      "customtextfontsize": 30
+    },
+    "showsettings": {
+      "onplayerlogon": true,
+      "fornewplayersonly": false,
+      "onnextplayerlogonversion": 0
+    }
+  }
+}
